@@ -29,7 +29,7 @@ namespace repaso
                 "C'M'", "M'", "M'M'", "M'M'M'", "X'X'X'I'X'CMXCIX"
             };
 
-            Console.WriteLine("Introduce numero para convertir a numero romano hasta 4000");
+            Console.WriteLine("Introduce numero para convertir a numero romano hasta 3999999");
             int user = Convert.ToInt32(Console.ReadLine());
             int i = 0;
             string result = "";
